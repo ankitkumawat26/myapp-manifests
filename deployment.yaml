@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: ankitkumawat2627/myapp:v3
+        image: ankitkumawat2627/myapp:v4
         ports:
         - containerPort: 5000
         readinessProbe:
